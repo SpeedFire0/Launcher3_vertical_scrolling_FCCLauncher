@@ -14,3 +14,6 @@ The horizontal (original / normal) version was taken from fookwood's repository:
 
 **Known issues:**
 I was able to handle with most of the issues during its conversion to vertical launcher, except for Top/Bottom Edge Effect (the code is located in PagedView and LauncherEdgeEffect files and market with TODO tag). Would be thankful for any help.
+
+**License:**
+Released under the Apache License 2.0.
